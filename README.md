@@ -115,8 +115,8 @@ Setup GOPATH like [this](https://golang.org/cmd/go/#hdr-GOPATH_environment_varia
 Then:
 
 ```
-go get -d github.com/tuna/tunasync/cmd/tunasync
-cd $GOPATH/src/github.com/tuna/tunasync
+go get -d github.com/CQUPTMirror/tunasync/cmd/tunasync
+cd $GOPATH/src/github.com/CQUPTMirror/tunasync
 make
 ```
 
